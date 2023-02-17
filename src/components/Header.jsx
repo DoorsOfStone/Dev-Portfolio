@@ -11,7 +11,7 @@ function Header() {
       <div
         className={modal ? "contact__container active" : "contact__container"}
       >
-        <div className="contact__form ">
+        <div className=" contact__form ">
           <h1 className="name">Contact</h1>
           <div className="w-full h-2/3 ">
             <h4>email</h4>
@@ -24,7 +24,7 @@ function Header() {
             className="w-[200px] h-[50px] bg-slate-400"
             onClick={showModal}
           >
-            0 Close
+            Close
           </button>
         </div>
       </div>

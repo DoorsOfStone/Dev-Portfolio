@@ -31,12 +31,13 @@
 }
 .contact__container{
     z-index: 100;
-    width: 100vw;
-    height: 100vh;
     position:fixed;
+    width: 100vw;
+    height: 800px;
+    margin-top: -10%;
     margin-left: -10%;
-    margin-top: -4.9%;
-    margin-bottom: 10px;
+    margin-bottom:10%;
+    padding-top: 10%;
     background-color: rgba(0, 0, 0, 0.425);
     display: flex;
     justify-content: center;
@@ -44,12 +45,14 @@
     visibility: hidden;
  
 }
+s
 .contact__container.active{
     visibility: visible;
 }
 .contact__form{
     width: 45%;
     height: 600px;
+    margin-bottom:100px;
     background-color: #161616;
     border-radius: 10px;
     display: flex;

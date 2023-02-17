@@ -8,20 +8,7 @@ function About() {
           {"My Advantages"}
         </h1>
         <article className=" text-white text-xl p-5 font-extralight text-center ">
-          Lorem ipsum dolor sit amet consectetur adipisicing elit. Delectus
-          eligendi debitis repellat, cumque dignissimos doloribus earum maiores,
-          magnam nulla explicabo ipsam quas. Illo facilis non labore voluptatem
-          nostrum, ipsum rem. Lorem ipsum dolor sit amet consectetur adipisicing
-          elit. Quasi sed maxime laborum quod itaque corporis sequi, sapiente
-          sunt incidunt dignissimos beatae, reprehenderit eveniet nobis. Aliquid
-          magni fugiat fuga earum eveniet? Lorem ipsum dolor sit amet
-          consectetur adipisicing elit. Delectus eligendi debitis repellat,
-          cumque dignissimos doloribus earum maiores, magnam nulla explicabo
-          ipsam quas. Illo facilis non labore voluptatem nostrum, ipsum rem.
-          Lorem ipsum dolor sit amet consectetur adipisicing elit. Quasi sed
-          maxime laborum quod itaque corporis sequi, sapiente sunt incidunt
-          dignissimos beatae, reprehenderit eveniet nobis. Aliquid magni fugiat
-          fuga earum eveniet?
+        Hello, my name is Landon Van Cleave. I grew up in Detroit,MI. The youngest of five, I could have never imagined that I would be here. But through all the triumph and downfall I have found a way to not only survive, but to thrive through it. Where Im found the idea of working in tech is non-existent, it's a goal of mine to change that. My truest of hopes is to become an example role model for those who will come after me, to build generational wealth and to change the outlook of my family.
         </article>
       </div>
     </div>
