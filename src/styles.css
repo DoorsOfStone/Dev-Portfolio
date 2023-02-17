@@ -1,0 +1,60 @@
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@400;500&family=La+Belle+Aurore&family=Playfair+Display:ital,wght@0,400;0,500;0,700;1,400&display=swap');
+
+*{
+    font-family: 'Playfair Display', serif;
+    
+}
+
+.home{
+
+    background-repeat: no-repeat;
+    background-size: cover;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+   
+}
+.name{
+    background:linear-gradient( to right, rgb(117, 20, 228),rgb(255, 9, 193),rgb(255, 8, 111),rgb(126, 78, 238));
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background: radial-gradient()
+
+}
+.about{
+    background:linear-gradient( to right, rgb(117, 20, 228), rgb(11, 25, 223),rgb(255, 9, 193),rgb(240, 0, 76) );
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background: radial-gradient()
+
+}
+.contact__container{
+    z-index: 100;
+    width: 100vw;
+    height: 100vh;
+    position:fixed;
+    margin-left: -10%;
+    margin-top: -4.9%;
+    margin-bottom: 10px;
+    background-color: rgba(0, 0, 0, 0.425);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    visibility: hidden;
+ 
+}
+.contact__container.active{
+    visibility: visible;
+}
+.contact__form{
+    width: 45%;
+    height: 600px;
+    background-color: #161616;
+    border-radius: 10px;
+    display: flex;
+    flex-direction: column;
+
+ 
+
+}
