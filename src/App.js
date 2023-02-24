@@ -11,7 +11,7 @@ import "./styles.css";
 
 function App() {
   return (
-    <div className="home w-[screen] min-h-[screen] bg-black ">
+    <div className="home  bg-black overflow-x-hidden  ">
       <Navbar />
       <Header />
       <Skills />
